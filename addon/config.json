@@ -1,0 +1,10 @@
+{
+    "codex_path": "",
+    "model": "",
+    "timeout_seconds": 180,
+    "shortcut": "Ctrl+Shift+F",
+    "explain_on_highlight": false,
+    "highlight_min_chars": 3,
+    "save_folder": "~/Documents/Anki Questions",
+    "answer_language": ""
+}

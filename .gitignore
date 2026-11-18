@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# built add-on file (attached to releases instead)
+dist/
+
+# a user's own settings and the add-on's error log
+addon/meta.json
+addon/user_files/*
+!addon/user_files/.gitkeep
